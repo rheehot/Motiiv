@@ -1,0 +1,27 @@
+.swiper-button-next{
+    right: -3rem;
+}
+.swiper-button-prev{
+    left:-3rem;
+}
+.swiper-slide{
+    display: flex;
+    justify-content: center;
+    max-height: 30rem;
+    //max-width: 30rem;
+    margin-bottom: 2.3rem;
+}
+.swiper-wrapper{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 2rem;
+}
+.swiper-pagination{
+/*     margin-top: 2rem;
+    margin-bottom: 1rem; */
+}
+.swiper-container{
+    position:static;
+    margin-bottom: 4rem;
+    //margin-right:3rem;
+}
